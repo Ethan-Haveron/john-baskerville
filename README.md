@@ -2,7 +2,7 @@
 
 
 week 06 
-+ [version 1](https:/ethan-haveron.github.io/john-baskerville/baskerville.html)
++ [version 1](https://ethan-haveron.github.io/john-baskerville/baskerville.html)
 
 week 07 
 + [version 2](https://Ethan-Haveron.github.io/john-baskerville/john-baskerville-2.html)
